@@ -1,3 +1,5 @@
+set -g __lewisacidic_fish_scripting_abbr_version 0.1.0
+
 abbr ta 'tmux attach -t'
 abbr tad 'tmux attach -d -t'
 abbr ts 'tmux new-session -s'
